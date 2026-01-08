@@ -25,8 +25,9 @@
             "description": "Foundations of CyberSecurity"
         },
         {
-            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/UI_UX_page-0001.jpg",
-            "description": "UI/UX Course"
+        {
+            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/PTE.jpg",
+            "description": "PTE Score Card"   
         },
         {
             "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/DigitalPathshala%20Certificate%20(50).png",
@@ -41,8 +42,8 @@
             "description": "Adobe InDesign"
         },
         {
-            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/PTE.jpg",
-            "description": "PTE Score Card"   
+            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/UI_UX_page-0001.jpg",
+            "description": "UI/UX Course"
         },
         {
             "link": "https://github.com/manishshrestha01/Certificates/blob/main/Barista%20Training.jpeg?raw=true",
@@ -50,6 +51,7 @@
         }
     ]
 }
+
 
 
 

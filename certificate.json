@@ -4,17 +4,21 @@
             "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/VEDC.jpg",
             "description": "Video Editing"
         },
+        {
+            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/SEO.jpg",
+            "description": "SEO"
+        },
           {
             "link": "https://github.com/manishshrestha01/Certificates/blob/main/UI%3AUX%20Training%20Participation.jpeg?raw=true",
             "description": "UI/UX Training Participation"
         },
         {
-            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/Git%20and%20GitHub%20Training.jpeg",
-            "description": "Git and GitHub Training"
-        },
-        {
             "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/Flutter_page-0001.jpg",
             "description": "Flutter"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/manishshrestha01/Certificates/main/Git%20and%20GitHub%20Training.jpeg",
+            "description": "Git and GitHub Training"
         },
         {
             "link": "https://github.com/manishshrestha01/Certificates/blob/main/Web%20Page%20Developent%20and%20Designing.jpeg?raw=true",
@@ -50,6 +54,7 @@
         }
     ]
 }
+
 
 
 
